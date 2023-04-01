@@ -23,7 +23,7 @@ const createFooter = () => {
             <li><a href="#" class="footer-link">Gió đầu mùa lạnh</a></li>
             <li><a href="#" class="footer-link">Mũi hoài vọng</a></li>
             <li><a href="#" class="footer-link">Miền đất hứa</a></li>
-            <li><a href="#" class="footer-link">Phía bên kia nửa đ</a></li>
+            <li><a href="#" class="footer-link">Phía bên kia nửa đêm</a></li>
             <li><a href="#" class="footer-link">Đứa con của thời tiết</a></li>
             <li><a href="#" class="footer-link">Thanh gươm diệt quỷ</a></li>
             <li><a href="#" class="footer-link">86-EIGHTY-SIX</a></li>
