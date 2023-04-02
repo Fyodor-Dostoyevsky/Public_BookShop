@@ -20,16 +20,16 @@ const createFooter = () => {
         </ul>
         <ul class="category">
             <li class="category-title">light novel</li>
-            <li><a href="#" class="footer-link">Gió đầu mùa lạnh</a></li>
-            <li><a href="#" class="footer-link">Mũi hoài vọng</a></li>
-            <li><a href="#" class="footer-link">Miền đất hứa</a></li>
-            <li><a href="#" class="footer-link">Phía bên kia nửa đêm</a></li>
+            <li><a href="#" class="footer-link">Nhà Giả kim</a></li>
+            <li><a href="#" class="footer-link">Tôi thấy hoa vàng trên cỏ xanh</a></li>
+            <li><a href="#" class="footer-link">Như đóa hoa sương</a></li>
+            <li><a href="#" class="footer-link">Chưa kịp lớn đã trường thành</a></li>
             <li><a href="#" class="footer-link">Đứa con của thời tiết</a></li>
-            <li><a href="#" class="footer-link">Thanh gươm diệt quỷ</a></li>
-            <li><a href="#" class="footer-link">86-EIGHTY-SIX</a></li>
-            <li><a href="#" class="footer-link">BAKEMONOGATARI</a></li>
+            <li><a href="#" class="footer-link">Cho tôi xin một vé đi tuổi thơ</a></li>
+            <li><a href="#" class="footer-link">Đứa con gái hoang đàng</a></li>
+            <li><a href="#" class="footer-link">Bước chậm lại giữa thế gian vội vã</a></li>
             <li><a href="#" class="footer-link">Sword art online</a></li>
-            <li><a href="#" class="footer-link">Tanya chiến ký</a></li>
+            <li><a href="#" class="footer-link">Rừng Nauy</a></li>
         </ul>
     </div>
    
@@ -45,7 +45,7 @@ const createFooter = () => {
     </div>
     <div>
         <a href="https://www.instagram.com/"  class="social-link">istagram</a>
-        <a href="https://www.facebook.com/" class="social-link">facebook</a>
+        <a href="https://www.facebook.com/profile.php?id=100009877813620&mibextid=ZbWKwL" class="social-link">facebook</a>
         <a href="https://twitter.com/" class="social-link">twitter</a>
     </div>
 </div>
